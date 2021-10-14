@@ -1,0 +1,9 @@
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\bin\Debug\CalculatorChallenge.exe.config
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\bin\Debug\CalculatorChallenge.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\bin\Debug\CalculatorChallenge.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.Form1.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.Properties.Resources.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.csproj.GenerateResource.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.csproj.CoreCompileInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorChallenge\obj\Debug\CalculatorChallenge.pdb

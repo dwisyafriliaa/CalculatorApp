@@ -1,0 +1,13 @@
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.AssemblyReference.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache

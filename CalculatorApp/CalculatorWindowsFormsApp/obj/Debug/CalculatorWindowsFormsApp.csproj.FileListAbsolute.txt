@@ -1,0 +1,10 @@
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.AssemblyReference.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+F:\AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum1\CalculatorApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
